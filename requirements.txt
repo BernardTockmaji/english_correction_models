@@ -1,0 +1,7 @@
+git+https://github.com/PrithivirajDamodaran/Gramformer.git
+gingerit
+happytransformer
+language-tool-python
+symspellpy
+gradio==3.0
+pandas
